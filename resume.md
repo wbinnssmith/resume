@@ -1,6 +1,6 @@
 [![github](img/logo-github.svg) @wbinnssmith](http://github.com/wbinnssmith)  
 [![twitter](img/logo-twitter.svg) @wbinnssmith](http://twitter.com/wbinnssmith)  
-[![mobile](img/phone.svg) 408.455.3170](tel://4084553170)  
+[![mobile](img/phone.svg) 408.673.8296](tel://4086738296)  
 
 # Will Binns-Smith  
 ### Software Engineer and Web Developer  
